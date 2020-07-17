@@ -28,6 +28,7 @@
 }
 .container-abt h3{
 margin-left: 70px;
+margin-top: 50px;
 }
 .navbarNav{
 	float:right;
@@ -41,6 +42,36 @@ margin-left: 70px;
   text-align: center;
   background-color: #CACFD2;
   color: black;}
+.abt h1{
+margin-top: 60px;
+
+}
+
+.abo{padding: 50px;
+  text-align: center;
+  background-color: #CACFD2;
+  color: black;}
+
+.test{padding: 50px;
+  text-align: center;
+  background-color: #CACFD2;
+  color: black;}
+
+.images{padding: 50px;
+  text-align: center;
+  background-color: #CACFD2;
+  color: black;}
+.ser{padding: 50px;
+  text-align: center;
+  background-color: #CACFD2;
+  color: black;}
+
+
+  .total{padding: 0px;
+  text-align: center;
+  background-color:#808080;
+  color: black;}
+
 
 
 .features{padding: 50px;
@@ -50,6 +81,12 @@ margin-left: 70px;
 
 
 .gallery{padding: 50px;
+  text-align: center;
+  background-color: #212F3C;
+  color:white;}
+
+
+  .contact{padding: 50px;
   text-align: center;
   background-color: #212F3C;
   color:white;}
@@ -214,4 +251,28 @@ body {
   text-align: center;
   width: 1250px;
 height: 200px;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
+}
+
+.gallery{
+  padding: 0;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.abo {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+
 }
